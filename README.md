@@ -1,7 +1,7 @@
 # Tazama — Alert Navigator & Rule Trigger Discovery
 
-**Delta Analytics Fellowship | April – June 2026**
-**Supported by the Bill & Melinda Gates Foundation | Linux Foundation Project**
+**Delta Analytics Fellowship | Feb – June 2026**
+**Supported by the Gates Foundation | Linux Foundation Project**
 
 ---
 
@@ -216,7 +216,7 @@ No changes to Cells 10 or 11 are needed — the framework handles new rules auto
 
 This project was made possible through the support of:
 - **Justus Ortlepp** — Head of Product, Tazama
-- **Sandy Labuschagne** — Data Architecture, Paysys Labs
+- **Sandy Labuschagne** — Product Owner, Tazama
 - **Jai** — Delta Analytics Fellowship Sponsor
 - The Tazama and Paysys Labs engineering teams for sandbox access, data ingestion, and technical guidance
 
